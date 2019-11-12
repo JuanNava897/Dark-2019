@@ -23,10 +23,10 @@
 define( 'DB_NAME', 'dark-2019' );
 
 /** MySQL database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'admin' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', '9013179001ce926825f1de4f273b94e2c609aedb8e77703e' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
